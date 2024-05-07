@@ -1,3 +1,3 @@
 # Hawt Dawg
 
-https://sergethomas.github.io/twitter/
+ https://sergethomas.github.io/HawtDawg/
